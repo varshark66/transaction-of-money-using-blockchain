@@ -1,4 +1,4 @@
-This project is a decentralized application designed to demonstrate the secure and transparent management of financial transactions using blockchain technology. It combines cryptographic techniques, Proof-of-Work consensus, and a distributed ledger to ensure data integrity, transparency, and tamper-proof transaction records.
+This project is a decentralized model designed to demonstrate the secure and transparent management of financial transactions using blockchain technology. It combines cryptographic techniques, Proof-of-Work consensus, and a distributed ledger to ensure data integrity, transparency, and tamper-proof transaction records.
 
 Key Features:
 
